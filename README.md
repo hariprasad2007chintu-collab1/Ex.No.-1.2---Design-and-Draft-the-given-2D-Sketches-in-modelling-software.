@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-<img width="4963" height="3509" alt="EDM exp 1 2_page-0001" src="https://github.com/user-attachments/assets/98888fcf-3ae2-4a4d-b0ae-9d55d4bea555" />
+ <img width="4963" height="3509" alt="EDM 1 2 EXP_page-0001" src="https://github.com/user-attachments/assets/39ac7a99-f2c0-4140-ac00-14127838f63f" />
+
 
 
  
