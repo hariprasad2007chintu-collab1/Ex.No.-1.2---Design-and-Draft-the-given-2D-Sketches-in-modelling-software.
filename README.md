@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="6213" height="4396" alt="ex 1 2 hari prasad EDM_page-0001 (1)" src="https://github.com/user-attachments/assets/a49e38d4-56a2-4e4b-b4dc-ff4289eac50d" />
+<img width="4963" height="3509" alt="EDM exp 1 2_page-0001" src="https://github.com/user-attachments/assets/98888fcf-3ae2-4a4d-b0ae-9d55d4bea555" />
+
 
  
  ## RESULT
